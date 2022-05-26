@@ -40,6 +40,13 @@ header {
     display: flex;
 }
 
+.menuFooter {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .menu-items {
     padding: 0 20px;
     margin-top: 10px;
@@ -109,4 +116,11 @@ header {
 
 .card-movie img:hover {
     transform: scale(1.1, 1.1);
+}
+
+.languageSelector {
+    width: 60%;
+    text-align: right;
+    position: absolute;
+    right: 0;
 }
