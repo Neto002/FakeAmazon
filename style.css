@@ -107,6 +107,7 @@ header {
 
 .card-movie {
     width: 20%;
+    margin: 20px;
 }
 
 .card-movie img {
@@ -129,7 +130,7 @@ header {
     text-align: justify;
 }
 
-.conteudoPrincipal h3 {
+.conteudoPrincipal p {
     color: white;
     margin: 20px;
 }
