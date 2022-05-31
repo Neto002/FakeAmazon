@@ -129,6 +129,7 @@ header {
     text-align: justify;
 }
 
-.conteudoPrincipal p {
+.conteudoPrincipal h3 {
     color: white;
+    margin: 20px;
 }
