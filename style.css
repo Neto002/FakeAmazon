@@ -124,3 +124,11 @@ header {
     position: absolute;
     right: 0;
 }
+
+.conteudoPrincipal {
+    text-align: justify;
+}
+
+.conteudoPrincipal p {
+    color: white;
+}
