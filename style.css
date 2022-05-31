@@ -108,10 +108,14 @@ header {
 .card-movie {
     width: 20%;
     margin: 20px;
+    align-items: center;
+    position: relative;
+    left: 30%;
 }
 
 .card-movie img {
-    width: 100%;
+    width: 500px;
+    height: 300px;
     transition: 1s;
 }
 
